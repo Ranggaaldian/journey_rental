@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "828690466123",
+    "project_id": "journeyrental-b554f",
+    "storage_bucket": "journeyrental-b554f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828690466123:android:8a4070cc1f0b8caf2ad4ce",
+        "android_client_info": {
+          "package_name": "com.example.journeyrental"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5y7GflNpOaGuImKxD3g4K_GEGA47KEBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
